@@ -34,10 +34,10 @@
 
  <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=lightsenpai7&theme=radical">  
+<img src="https://github-readme-stats.vercel.app/api?username=yunusemrekocak-7&theme=radical">  
  </details>
 
  <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightsenpai7&layout=compact&theme=radical">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrekocak-7&layout=compact&theme=radical">  
  </details>
